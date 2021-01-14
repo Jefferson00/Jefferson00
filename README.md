@@ -2,10 +2,10 @@
 
 Sou Jefferson Clemente, no momento estou focado em me tornar um desenvolvedor full-stack, com foco em React. Em constante aprendizado, sempre evoluindo...
 
-## Formação
+### Formação
 👨🏼‍🏫  Superior em Analise e Desenvolvimento de sistemas, IESB Brasília. 2018.
 
-## Entre em contato
+### Entre em contato 📫
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jefferson-c-silva-aa1b7b1a9/)](https://www.linkedin.com/in/jefferson-c-silva-aa1b7b1a9/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=instagram&logoColor=white&link=https://www.instagram.com/jeffreyy_30/)](https://www.instagram.com/jeffreyy_30/)
