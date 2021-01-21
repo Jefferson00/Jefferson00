@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Sou Jefferson Clemente, no momento estou focado em me tornar um desenvolvedor full-stack, com foco em React. Em constante aprendizado, sempre evoluindo...
+Sou Jefferson C. Silva, no momento estou focado em me tornar um desenvolvedor full-stack, com foco em React. Em constante aprendizado, sempre evoluindo...
 
 ### Formação
 👨🏼‍🏫  Superior em Analise e Desenvolvimento de sistemas, IESB Brasília. 2018.
