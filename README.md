@@ -1,3 +1,5 @@
+![Alt text](./Frame 4.png)
+
 ### Hi there 👋
 
  Oi, me chamo Jefferson. Sou desenvolvedor full-stack, com foco em React. Estou em busca de novas oportunidades e desafios. Em constante aprendizado, sempre evoluindo...
