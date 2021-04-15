@@ -1,4 +1,5 @@
-![Alt text](./Frame 4.png)
+
+<img src="Frame 4.png">
 
 ### Hi there 👋
 
