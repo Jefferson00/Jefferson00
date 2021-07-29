@@ -3,7 +3,7 @@
 
 ### Hi there 👋
 
- Oi, me chamo Jefferson. Sou desenvolvedor full-stack, com foco em React. Estou em busca de novas oportunidades e desafios. Em constante aprendizado, sempre evoluindo...
+ Oi, me chamo Jefferson. Sou desenvolvedor full-stack, com foco em JavaScript (Node.js, ReactJS, React Native). Em constante aprendizado, sempre evoluindo...
 
 ### Formação
 👨🏼‍🏫  Superior em Analise e Desenvolvimento de sistemas, IESB Brasília. 2018.
@@ -13,6 +13,7 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jefferson-c-silva-aa1b7b1a9/)](https://www.linkedin.com/in/jefferson-c-silva-aa1b7b1a9/)
 [![Instagram Badge](https://img.shields.io/badge/-Instagram-1ca0f1?style=flat-square&labelColor=1ca0f1&logo=instagram&logoColor=white&link=https://www.instagram.com/jeffreyy_30/)](https://www.instagram.com/jeffreyy_30/)
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-ff0000?style=flat-square&labelColor=ff0000&logo=gmail&logoColor=white&link=mailto:jeffersonts00@gmail.com)](mailto:jeffersonts00@gmail.com)
+[![Website Badge](https://img.shields.io/badge/-Website-111518?style=flat-square&labelColor=111518&logo=website&logoColor=white&link=https://www.jeffersondev.com.br/)](https://www.jeffersondev.com.br/)
 <!--
 **Jefferson00/Jefferson00** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
