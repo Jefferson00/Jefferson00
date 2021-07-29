@@ -8,7 +8,9 @@
 ### Formação
 👨🏼‍🏫  Superior em Analise e Desenvolvimento de sistemas, IESB Brasília. 2018.
 
-[![Jefferson github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jefferson00&theme=dark)](https://github.com/jefferson00/github-readme-stats)
+<p align="center">
+ [![Jefferson github stats](https://github-readme-stats.vercel.app/api/top-langs/?username=jefferson00&theme=dark)](https://github.com/jefferson00/github-readme-stats)
+</p> 
 
 ### Entre em contato 📫
 
