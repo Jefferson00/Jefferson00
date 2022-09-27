@@ -1,6 +1,6 @@
 
 <a href="https://www.jeffersondev.com.br/" target="_blank">
- <img src="cover.png">
+ <img src="banner.png">
 </a>
 
 ### Hi there 👋
